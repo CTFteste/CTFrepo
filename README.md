@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-para aceder ao site é usado este [Link](https://asdasdasdasdasd.com)
+para aceder ao site é usado este [Link](https://ctfteste.github.io/CTFrepo/)
 
 You can use the [editor on GitHub](https://github.com/CTFteste/CTFrepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
